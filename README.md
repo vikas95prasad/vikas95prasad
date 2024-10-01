@@ -2,6 +2,7 @@
 
 My name is Vikas
 
+- 🔭 I’m a Senior Lead Software Engineer at  Apple via BigBinary (Fully Remote)
 - 🔭 I’m currently working on Ruby On Rails, ReactJs
 - 🌱 I’m currently learning GO
 - 📫 How to reach me: 
